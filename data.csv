@@ -1,0 +1,9 @@
+city,item,price,quantity,month
+Chennai,Rice,60,2,Jan
+Mumbai,Milk,40,3,Jan
+Delhi,Tomato,50,2,Jan
+Bangalore,Eggs,70,1,Jan
+Chennai,Rice,75,2,Feb
+Mumbai,Milk,48,3,Feb
+Delhi,Tomato,65,2,Feb
+Bangalore,Eggs,80,1,Feb
