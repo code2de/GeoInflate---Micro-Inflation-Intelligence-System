@@ -1,6 +1,8 @@
 # GeoInflate  
 ## Micro Inflation Intelligence System
 
+##Deployed via Streamlit: https://geoinflate.streamlit.app/
+
 GeoInflate is a data analytics based web application designed to track and analyze inflation at a personal and city level. The system focuses on micro-level inflation intelligence using user-generated expense data and geo-spatial visualization.
 
 The project combines:
